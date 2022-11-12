@@ -24,9 +24,10 @@ const theme: DefaultTheme = {
     fonts: {    
         family: "'Roboto', sans-serif",
         size: {
-            small: '1em',
-            medium: '2em',
-            large: '3em'
+            small: '0.6em',
+            normal: '0.8em',
+            medium: '1.4em',
+            large: '2em'
         },
         weight: {
             small: 300,

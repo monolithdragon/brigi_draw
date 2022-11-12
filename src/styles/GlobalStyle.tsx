@@ -166,6 +166,8 @@ sup {
 
 img {
   border-style: none;
+  display: block;
+  max-width: 100%;
 }
 
 /* Forms

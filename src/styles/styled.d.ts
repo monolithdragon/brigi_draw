@@ -7,7 +7,7 @@ interface IPalette {
 
 interface IFont {
     family: string;
-    size: { small: string, medium: string, large: string};
+    size: { small: string, normal: string, medium: string, large: string};
     weight: {small: number, normal: number, medium: number, bold: number};
 };
   
